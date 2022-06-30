@@ -89,6 +89,8 @@
 		23A5163A285BD89E00C96A76 = {
 			isa = PBXGroup;
 			children = (
+				23A51684285C4D8700C96A76 /* Weather.swift */,
+				23A5167E285C498200C96A76 /* Countries.swift */,
 				23A51645285BD89E00C96A76 /* WeatherToday */,
 				23A5165C285BD8A000C96A76 /* WeatherTodayTests */,
 				23A51666285BD8A000C96A76 /* WeatherTodayUITests */,
@@ -117,8 +119,6 @@
 				23A5167A285C3D8700C96A76 /* ThirdViewController.swift */,
 				23A51676285BDEDD00C96A76 /* CustomTableViewCell.swift */,
 				23A5164F285BD8A000C96A76 /* Assets.xcassets */,
-				23A51684285C4D8700C96A76 /* Weather.swift */,
-				23A5167E285C498200C96A76 /* Countries.swift */,
 				23A51651285BD8A000C96A76 /* LaunchScreen.storyboard */,
 				23A51654285BD8A000C96A76 /* Info.plist */,
 			);

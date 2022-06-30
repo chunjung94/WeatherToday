@@ -10,8 +10,8 @@ import UIKit
 class CustomTableViewCell: UITableViewCell {
     
     @IBOutlet weak var countryImage: UIImageView!
-    @IBOutlet weak var countryName: UILabel!
     @IBOutlet weak var detailButton: UIButton!
+    
     
     
     
